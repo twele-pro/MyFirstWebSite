@@ -13,7 +13,8 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 0 8px;
-    background-color: green;
+    
+     background-image: url("https://hillceramic.se/wp-content/uploads/2017/04/KLP6008_Pegaus-Marmor-Klinker-Vit-60x60-cm-1-1.png");
     color: #000000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
